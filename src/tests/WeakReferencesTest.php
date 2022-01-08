@@ -20,5 +20,7 @@ class WeakReferencesTest extends TestCase
         $this->assertTrue($weakref->get() instanceof \stdClass);
         unset($obj);
         $this->assertTrue($weakref->get() == null);
+
+
     }
 }
