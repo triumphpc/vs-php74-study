@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed37404-5594-4914-990a-4b4087a1ecb9" name="Default Changelist" comment="" />
+    <list default="true" id="bed37404-5594-4914-990a-4b4087a1ecb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/AnonTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/AssociationsTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/ClosureTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/CounterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/Ex1Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/Ex2Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/Ex4Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/ObjectCloneTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/php-tips/YieldTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vs-php74-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vs-php74-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/UnpackingOperatorInArrayTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/UnpackingOperatorInArrayTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -16,6 +35,45 @@
   <component name="KubernetesApiPersistence">
     <option name="context" value="minikube" />
     <option name="namespace" value="default" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/src/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/src/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1oZjyWatwlvWyJY9q743vOU1dv8" />
   <component name="ProjectViewState">
@@ -26,12 +84,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tests/php-tips" />
     <property name="settings.editor.selected.configurable" value="ssh.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tests/php-tips" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/tests" />
     </key>
@@ -39,8 +98,68 @@
       <recent name="$PROJECT_DIR$/src/tests" />
     </key>
   </component>
+  <component name="RunManager" selected="PHPUnit.GeneratorsTest.testExample5">
+    <configuration name="GeneratorsTest.testExample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\PHP74\GeneratorsTest" file="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" method="testExample" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneratorsTest.testExample2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\PHP74\GeneratorsTest" file="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" method="testExample2" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneratorsTest.testExample3" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\PHP74\GeneratorsTest" file="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" method="testExample3" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneratorsTest.testExample4" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\PHP74\GeneratorsTest" file="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" method="testExample4" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneratorsTest.testExample5" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\PHP74\GeneratorsTest" file="$PROJECT_DIR$/src/tests/php-tips/GeneratorsTest.php" method="testExample5" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.GeneratorsTest.testExample5" />
+        <item itemvalue="PHPUnit.GeneratorsTest.testExample4" />
+        <item itemvalue="PHPUnit.GeneratorsTest.testExample3" />
+        <item itemvalue="PHPUnit.GeneratorsTest.testExample2" />
+        <item itemvalue="PHPUnit.GeneratorsTest.testExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="update examples" />
   </component>
 </project>

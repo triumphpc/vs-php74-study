@@ -21,5 +21,13 @@ class UnpackingOperatorInArrayTest extends TestCase
                 0, 1, 2, 3, 4, 5, 6, 7
             ]);
 
-    }
+		// merge
+		$arMerge = array_merge([0], $arrayA, $arrayB, [6, 7]);
+
+		$this->assertTrue($arMerge === [
+				0, 1, 2, 3, 4, 5, 6, 7
+			]);
+
+
+	}
 }
